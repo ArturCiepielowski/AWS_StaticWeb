@@ -8,7 +8,7 @@ This is a simple static website that introduces me and provides links to my soci
 - **Responsive Design**: Ensures the website looks good on all devices.
 
 ## 📲 Hosting on AWS Amplify 
-This website is intended to be deployed using **AWS Amplify**, a fully managed service provided by Amazon Web Services for hosting static web applications.
+This website is intended to be deployed using **AWS Amplify**, a fully managed service provided by Amazon Web Services for hosting static web applications. You can view the hosted website under this adress [Here adress]
 
 ## 📂 Repository Structure
 
